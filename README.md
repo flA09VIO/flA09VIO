@@ -1,6 +1,6 @@
 ### Olá! Eu sou Flávio Rodrigues👊
-###Técnico em Informática para Internet
-###Drones Guanambi
+### Técnico em Informática para Internet
+### Drones Guanambi
 
 ![flA09VIO](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
@@ -18,8 +18,8 @@
 </div></br>
 
 ### Aprimorando conhecimentos:
-*Modelagem 3d
-*Drones Quadrirotores 
+### Modelagem 3d
+### Drones Quadrirotores 
 
 
 

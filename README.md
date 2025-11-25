@@ -53,19 +53,20 @@
 </div></br>
 
 ### 📊 Estatísticas
+<div> <img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=flA09VIO&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" /> <img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flA09VIO&theme=dracula&layout=compact&langs_count=10" /> </div>
 
-<div> 
-<img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=flA09VIO&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" />
-<img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flA09VIO&theme=dracula&layout=compact&langs_count=10" /> 
-</div>
-
+<br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/>
 
 </p>
-### Aprimorando conhecimentos:
-### Modelagem 3d
-### Drones Quadrirotores 
 
+📡 Outras áreas que estou aprimorando
+
+🛠 Modelagem 3D
+
+🚁 Drones Quadrirotores (Colibri – Drones IF Baiano)
+
+🖥 Desenvolvimento Web
 
 
 

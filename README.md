@@ -56,6 +56,7 @@
 </p>
 
 ---
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=030b87&height=120&section=footer"/>
 ### Aprimorando conhecimentos em:
 *Modelagem 3d
 

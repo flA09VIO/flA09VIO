@@ -1,6 +1,7 @@
-### Olá! Eu sou Flávio Rodrigues👊
-### Técnico em Informática para Internet
-### Drones Guanambi
+✨ Olá! Eu sou Flávio Rodrigues
+
+👨‍💻 Técnico em Informática para Internet
+🚁 Membro da equipe Drones IF Baiano – Campus Guanambi
 
 ![flA09VIO](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula) 
 ### 🤖 Linguagens e Tecnologias
@@ -53,17 +54,28 @@
 </div></br>
 
 ### 📊 Estatísticas
-<div> <img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=flA09VIO&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" /> <img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flA09VIO&theme=dracula&layout=compact&langs_count=10" /> </div>
 
-<br/><br/><br/><br/><br/>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-📡 Outras áreas que estou aprimorando
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-🛠 Modelagem 3D
+</p>
+### Aprimorando conhecimentos:
+### Modelagem 3d
+### Drones Quadrirotores 
 
-🚁 Drones Quadrirotores (Colibri – Drones IF Baiano)
-
-🖥 Desenvolvimento Web
 
 
 

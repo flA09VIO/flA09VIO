@@ -2,7 +2,7 @@
 👨‍💻 Técnico em Informática para Internet
 🚁 Membro da equipe Drones IF Baiano – Campus Guanambi
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=030b87&height=120&section=header"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com//?color==29a915&size=35&center=true&vCenter=true&width=1000&lines=Seja-Bem+Vindo+ao+meu+perfil!+%3AD;Me+chamo+Luiz+Flávio!;Sou+Estudante+do+...;IF-Baiano+Campus+Guanambi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com//?color==29a915&size=35&center=true&vCenter=true&width=1000&lines=Seja-Bem+Vindo+ao+meu+perfil!+%3AD;Me+chamo+Luiz+Flávio;Sou+Estudante+do+...;IF-Baiano+Campus+Guanambi)](https://git.io/typing-svg)
 ---
 ### 🤖 Linguagens e Tecnologias
 
@@ -38,8 +38,9 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-### Entre em
+<br>
+<br>
+### Entre em contato:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fl%C3%A1vio-rodrigues-silva-a0aaaa32b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luizflaviorodriguessilva@gmail.com)
@@ -52,31 +53,11 @@
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div></br>
-
-## 📊 Estatísticas
-
-<div align="center">
-
-  <img 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=flA09VIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-
-  <img 
-    alt="Linguagens Mais Usadas" 
-    height="180"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=flA09VIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-
-</div>
+</p>
 
 ---
-### Aprimorando conhecimentos:
-### Modelagem 3d
-### Drones Quadrirotores 
+### Aprimorando conhecimentos em:
+*Modelagem 3d
 
-
-
-
-APROVEITANDO AO MAXIMO O DIA ATUAL, E SEMPRE MANTENDO O PENSSANDO DO FUTURO.
+*Drones Quadrirotores 
+### APROVEITANDO AO MAXIMO O DIA ATUAL, E SEMPRE MANTENDO O PENSSANDO DO FUTURO.

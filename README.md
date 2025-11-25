@@ -56,9 +56,6 @@
 <div> <img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=flA09VIO&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" /> <img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flA09VIO&theme=dracula&layout=compact&langs_count=10" /> </div>
 
 <br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/>
-
-</p>
 
 📡 Outras áreas que estou aprimorando
 

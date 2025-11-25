@@ -54,7 +54,8 @@
 </div></br>
 
 ### 📊 Estatísticas
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flA09VIO
+&show_icons=true)
 <p>
   <img 
     align="left" 

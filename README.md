@@ -60,7 +60,7 @@
   <img 
     alt="GitHub Stats" 
     height="180" 
-    [src="https://github-readme-stats.vercel.app/api?username=flA09VIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?    username=flA09VIO&show_icons=true&theme=tokyonight)
+    [src="https://github-readme-stats.vercel.app/api?username=flA09VIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=flA09VIO&show_icons=true&theme=tokyonight)
   />
 
   <img 

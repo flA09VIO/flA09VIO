@@ -2,7 +2,7 @@
 👨‍💻 Técnico em Informática para Internet
 🚁 Membro da equipe Drones IF Baiano – Campus Guanambi
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=030b87&height=120&section=header"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com//?color==29a915&size=35&center=true&vCenter=true&width=1000&lines=Seja-Bem+Vindo+ao+meu+perfil!+%3AD;Me+chamo+Luiz+Flávio;Sou+Estudante+do+...;IF-Baiano+Campus+Guanambi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com//?color==29a915&size=35&center=true&vCenter=true&width=1000&lines=Seja-Bem+Vindo+ao+meu+perfil!+%3AD;Me+chamo+Luiz+Flávio!;Sou+Estudante+do+...;IF-Baiano+Campus+Guanambi)](https://git.io/typing-svg)
 ---
 ### 🤖 Linguagens e Tecnologias
 
@@ -61,17 +61,17 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flA09VIO
-    &show_icons=true)&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=flA09VIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+</p>
 ---
 ### Aprimorando conhecimentos:
 ### Modelagem 3d

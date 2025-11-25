@@ -1,5 +1,6 @@
 # ✨ Olá! Eu sou Flávio Rodrigues
 👨‍💻 Técnico em Informática para Internet
+<br>
 🚁 Membro da equipe Drones IF Baiano – Campus Guanambi
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=030b87&height=120&section=header"/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com//?color==29a915&size=35&center=true&vCenter=true&width=1000&lines=Seja-Bem+Vindo+ao+meu+perfil!+%3AD;Me+chamo+Luiz+Flávio;Sou+Estudante+do+...;IF-Baiano+Campus+Guanambi)](https://git.io/typing-svg)

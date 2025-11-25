@@ -1,9 +1,9 @@
-✨ Olá! Eu sou Flávio Rodrigues
-
+# ✨ Olá! Eu sou Flávio Rodrigues
 👨‍💻 Técnico em Informática para Internet
 🚁 Membro da equipe Drones IF Baiano – Campus Guanambi
-
-![flA09VIO](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula) 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=030b87&height=120&section=header"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com//?color==29a915&size=35&center=true&vCenter=true&width=1000&lines=Seja-Bem+Vindo+ao+meu+perfil!+%3AD;Me+chamo+Luiz+Flávio;Sou+Estudante+do+...;IF-Baiano+Campus+Guanambi)](https://git.io/typing-svg)
+---
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -39,12 +39,12 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+### Entre em
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fl%C3%A1vio-rodrigues-silva-a0aaaa32b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luizflaviorodriguessilva@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/f.luiizr/)
 ## Tecnologias que estudo no dia dia
-
 <div style="display: inline_block"><br/>
 <img align="center" alt=html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt=html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -55,23 +55,23 @@
 
 ### 📊 Estatísticas
 
+
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=flA09VIOch&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=flA09VIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</p>
+---
 ### Aprimorando conhecimentos:
 ### Modelagem 3d
 ### Drones Quadrirotores 

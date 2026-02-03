@@ -62,14 +62,9 @@ style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@
 ---
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=030b87&height=120&section=footer"/>
 
-### Aprimorando conhecimentos em:
-*Modelagem 3d
-
-*Drones Quadrirotores 
-### APROVEITANDO AO MAXIMO O DIA ATUAL, E SEMPRE MANTENDO O PENSSANDO DO FUTURO.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/flA09VIO/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/flA09VIO/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/flA09VIO/output/github-contribution-grid-snake.svg">
+
 </picture>
 

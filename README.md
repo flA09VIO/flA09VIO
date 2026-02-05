@@ -68,3 +68,9 @@ style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@
 
 </picture>
 
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/flA09VIO/flA09VIO/output/snake.svg" alt="Snake animation" />
+

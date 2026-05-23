@@ -42,6 +42,22 @@ style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Linguagem de Programação PHP" 
+    title="Linguagem PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
+          </>
 <br>
 <br>
 ### Entre em contato:
@@ -49,7 +65,7 @@ style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fl%C3%A1vio-rodrigues-silva-a0aaaa32b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luizflaviorodriguessilva@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/f.luiizr/)
-## Tecnologias que estudo no dia dia
+## Habilidades 🛠️
 <div style="display: inline_block"><br/>
 <img align="center" alt=html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt=html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
